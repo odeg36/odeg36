@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Oscar+Gonzalez;Senior+Backend+Developer+%7C+DevOps+%7C+Cloud;Building+Scalable+and+Resilient+Systems" alt="Typing Animation" />
 </p>
 
-# 👨‍💻 Oscar Gonzalez
+# 👨‍💻
 **Senior PHP & Symfony Developer | Clean Architecture Advocate | Open-Source Enthusiast**  
 
 I build scalable, maintainable, and high-quality software solutions. Passionate about clean code, API design, CLI tools, and cloud-native architecture.
