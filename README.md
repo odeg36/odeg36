@@ -1,8 +1,11 @@
-<!-- Animated Header -->
+<!-- Professional Banner Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Oscar+Gonzalez;Senior+Backend+Developer+%7C+DevOps+%7C+Cloud;Building+Scalable+and+Resilient+Systems" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi,+I'm+Oscar+Gonzalez&fontSize=36&fontColor=ffffff&fontAlignY=40" alt="Oscar Gonzalez Banner"/>
 </p>
 
+<p align="center">
+  <strong>Senior Fullstack Developer with focus in Backend | Cloud Enthusiast | Building Scalable Systems</strong>
+</p>
 # 👨‍💻
 **Senior PHP & Symfony Developer | Clean Architecture Advocate | Open-Source Enthusiast**  
 
