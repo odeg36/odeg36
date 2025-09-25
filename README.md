@@ -6,6 +6,7 @@
 <p align="center">
   <strong>Senior Fullstack Developer with focus in Backend | Cloud Enthusiast | Building Scalable Systems</strong>
 </p>
+
 # 👨‍💻
 **Senior PHP & Symfony Developer | Clean Architecture Advocate | Open-Source Enthusiast**  
 
