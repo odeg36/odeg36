@@ -53,8 +53,7 @@ Various Symfony API projects demonstrating REST, routing, and service design.
 ## 📫 Connect with Me
 
 - LinkedIn: [Oscar Gonzalez](https://www.linkedin.com/in/your-linkedin)
-- Email: your.email@example.com
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- Email: odeg36@hotmail.com
 
 ---
 
