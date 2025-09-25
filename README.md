@@ -14,6 +14,18 @@ I build scalable, maintainable, and high-quality software solutions. Passionate 
 
 ---
 
+<p align="center">
+  <a href="https://github.com/odeg36/oscar-gonzalez-fruits-and-vegetables-challenge">
+    <img src="https://img.shields.io/badge/Vacation_Calculator_CLI-4A90E2?style=for-the-badge&logo=terminal&logoColor=white" alt="Vacation Calculator CLI"/>
+  </a>
+  <a href="https://github.com/odeg36/loan-fee-calculator-v2">
+    <img src="https://img.shields.io/badge/Loan_Fee_Calculator_v2-50E3C2?style=for-the-badge&logo=calculator&logoColor=white" alt="Loan Fee Calculator v2"/>
+  </a>
+  <a href="https://github.com/odeg36/symfony-api-projects">
+    <img src="https://img.shields.io/badge/Symfony_API_Projects-9013FE?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony API Projects"/>
+  </a>
+</p>
+
 ## 📂 Featured Projects
 
 <details>
