@@ -13,43 +13,19 @@
 I build scalable, maintainable, and high-quality software solutions. Passionate about clean code, API design, CLI tools, and cloud-native architecture.
 
 ---
-
-<p align="center">
-  <a href="https://github.com/odeg36/oscar-gonzalez-fruits-and-vegetables-challenge">
-    <img src="https://img.shields.io/badge/Vacation_Calculator_CLI-4A90E2?style=for-the-badge&logo=terminal&logoColor=white" alt="Vacation Calculator CLI"/>
-  </a>
-  <a href="https://github.com/odeg36/loan-fee-calculator-v2">
-    <img src="https://img.shields.io/badge/Loan_Fee_Calculator_v2-50E3C2?style=for-the-badge&logo=calculator&logoColor=white" alt="Loan Fee Calculator v2"/>
-  </a>
-  <a href="https://github.com/odeg36/symfony-api-projects">
-    <img src="https://img.shields.io/badge/Symfony_API_Projects-9013FE?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony API Projects"/>
-  </a>
-</p>
-
 ## 📂 Featured Projects
 
-<details>
-<summary>🔹 Vacation Calculator CLI</summary>
-
+### 🔹 Vacation Calculator CLI
 Symfony CLI tool to calculate yearly vacation days based on contracts, showcasing **clean architecture** & **OOP best practices**.  
+[Repo Link](https://github.com/odeg36/oscar-gonzalez-fruits-and-vegetables-challenge)
 
-[Repo Link](https://github.com/odeg36/oscar-gonzalez-fruits-and-vegetables-challenge)  
-
-</details>
-
-<details>
-<summary>🔹 Loan Fee Calculator (v2.0)</summary>
-
+### 🔹 Loan Fee Calculator (v2.0)
 CLI tool for loan fee calculation with **fixed breakpoints, interpolation, and rounding rules**. Focused on **precision, test coverage, and maintainability**.  
+[Repo Link](https://github.com/odeg36/loan-fee-calculator-v2)
 
-</details>
-
-<details>
-<summary>🔹 API & Symfony Projects</summary>
-
+### 🔹 Symfony API Projects
 Various Symfony API projects demonstrating **REST design, routing, and service-oriented architecture**.  
-
-</details>
+[Repo Link](https://github.com/odeg36/symfony-api-projects)
 
 ---
 
