@@ -1,6 +1,6 @@
 <!-- Header Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20there,%20I'm%20Oscar%20Gonzalez%20👋&fontColor=fff&height=120&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20Hi%20there,%20I'm%20Oscar%20Gonzalez%20👋&fontColor=fff&height=120&section=header" />
 </p>
 
 # 👨‍💻 Oscar Gonzalez
