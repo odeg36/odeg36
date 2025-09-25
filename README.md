@@ -50,7 +50,7 @@ Various Symfony API projects demonstrating **REST design, routing, and service-o
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/odeg36/odeg36/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/odeg36/odeg36/blob/output/snake.svg)
 
 ---
 
