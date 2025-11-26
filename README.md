@@ -15,6 +15,10 @@ I build scalable, maintainable, and high-quality software solutions. Passionate 
 ---
 ## 📂 Featured Projects
 
+### 🔹 URL Shortener
+Symfony & React (Vite build) tool to shorten URLs.  
+[Repo Link](https://github.com/odeg36/symfony-url-shortener)
+
 ### 🔹 Vacation Calculator CLI
 Symfony CLI tool to calculate yearly vacation days based on contracts, showcasing **clean architecture** & **OOP best practices**.  
 [Repo Link](https://github.com/odeg36/oscar-gonzalez-fruits-and-vegetables-challenge)
